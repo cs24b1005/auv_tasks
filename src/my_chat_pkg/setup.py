@@ -29,6 +29,8 @@ setup(
         	'signal_pub = my_chat_pkg.signal_publisher:main',
         	'signal_proc = my_chat_pkg.signal_processor:main',
         	'signal_out = my_chat_pkg.signal_output:main',
+        	'commander = my_chat_pkg.commander:main',          
+        	'navigator = my_chat_pkg.navigator:main',
         ],
     },
 )
