@@ -31,6 +31,7 @@ setup(
         	'signal_out = my_chat_pkg.signal_output:main',
         	'commander = my_chat_pkg.commander:main',          
         	'navigator = my_chat_pkg.navigator:main',
+        	'vision_lock = my_chat_pkg.vision_lock:main',
         ],
     },
 )
